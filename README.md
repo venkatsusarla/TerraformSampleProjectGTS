@@ -1,0 +1,2 @@
+# TerraformSampleProjectGTS
+Terraform training
